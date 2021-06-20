@@ -1,0 +1,33 @@
+
+Assignment 1:
+water jug using BFS 
+Assignment 2:
+water jug  using DFS
+Assignment 4:
+Write a prolog program to check odd or even
+Assignment 5:
+Write a prolog program to find sum of n natural no.
+Assignment 6:
+write a prolog program to find the factorial of a number.
+Assignment 7:
+Write a prolog to implement tower of henoi.
+Assignment 8:
+write a prolog to print fibonacci series only print nth term
+Assignment 9:
+write a prolog program to find GCD of two numbers.
+Assignment 10:
+write a prolog program to find LCM of two numbers.
+Assignment 11:(any language)
+implement n queen problem.
+Assinment 12:(any language) 
+implement minmax game.
+Assignment 13::(any language) 
+implement alpha,beta pruning.
+Assigment 14::(any language)
+implement best first search.
+Assignment 15::(any language)
+implement hill climbing.
+
+
+
+
